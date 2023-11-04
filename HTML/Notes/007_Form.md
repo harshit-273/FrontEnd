@@ -32,7 +32,7 @@
 
 ### Attributes in ` <label> `
 
-- `for` attribute, it's value should be same as the id of the tag to associate `input` and `label` tags.
+- `for` attribute, it's value should be same as the `id` of the tag to associate `input` and `label` tags.
 
 
 How it's visible:
