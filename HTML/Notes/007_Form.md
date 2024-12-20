@@ -1,7 +1,7 @@
 # ` <form> `
 
 - Form is used to capture the details and redirect or store the data at other place
-- Form would have an `action` attribute which would be the lace where it shoud redirect with the collected data.
+- Form would have an `action` attribute which would be the place where it shoud redirect with the collected data.
 
 ## ` <input> `
 
